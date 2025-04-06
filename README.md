@@ -9,3 +9,5 @@ By tailored or specific solution I mean things like:
 - restrictive backup windows
 - tape backups
   
+todo make note of controlfile autobackup
+todo make note of expected / normal scenario: DFs on a set of disks or ASM, FRA or a set of disks receives archlogs, separate set of disks for backup
